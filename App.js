@@ -23,6 +23,7 @@ const SCREEN_WIDTH = Dimensions.get('window').width;
 const cookData = require("./datas.json").result.directoryVoList;
 const deptVoList = require("./datas.json").result.dirDeptVoList;
 const directoryVoLists = require("./dept.json").result.directoryVoList;
+const otherVoLists = require("./otherDept.json").result.directoryVoList;
 
 type Props = {};
 export default class App extends Component<Props> {
@@ -74,10 +75,15 @@ export default class App extends Component<Props> {
                         key={item.deptName + index + ''}
                         activeOpacity={1}
                         onPress={() => {
-                            // console.warn(index);
-                            this.setState({
-                                directoryVoList: directoryVoLists
-                            })
+                            console.warn(index + '--->'+(index === 3));
+                            // if (index === 1 || index === 2)
+                            //     this.setState({
+                            //         directoryVoList: directoryVoLists
+                            //     });
+                            // else if (index === 3 || index === 4 || index === 5 || index === 6)
+                                this.setState({
+                                    directoryVoList: otherVoLists
+                                })
                         }}
                     >
                         <View style={[styles.view_name]}>

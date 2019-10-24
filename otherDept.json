@@ -1,0 +1,457 @@
+{
+  "code": "200",
+  "errorType": "",
+  "message": "success",
+  "result": {
+    "dirDeptVoList": [
+      {
+        "deptId": 111,
+        "deptName": "测试组",
+        "orgId": 21,
+        "parentId": 110,
+        "pointListVoList": [],
+        "sortNum": 2,
+        "staffNum": 4
+      },
+      {
+        "deptId": 112,
+        "deptName": "产品组",
+        "orgId": 21,
+        "parentId": 110,
+        "pointListVoList": [],
+        "sortNum": 3,
+        "staffNum": 9
+      },
+      {
+        "deptId": 263,
+        "deptName": "测试驻点333",
+        "orgId": 21,
+        "parentId": 110,
+        "pointListVoList": [],
+        "sortNum": 4,
+        "staffNum": 0
+      }
+    ],
+    "dirOrgVo": null,
+    "directoryVoList": [
+      {
+        "header": "B",
+        "items": [
+          {
+            "credentialsNo": "",
+            "email": "",
+            "livingAddress": "阿斯顿发",
+            "name": "保安",
+            "namePinyin": "baoan",
+            "namePinyinFirst": "B",
+            "photoUrl": "",
+            "rank": "",
+            "sex": "1",
+            "status": "3",
+            "userId": 145,
+            "userType": "0",
+            "isChoose": false
+          }
+        ]
+      },
+      {
+        "header": "C",
+        "items": [
+          {
+            "credentialsNo": "",
+            "email": "",
+            "livingAddress": "",
+            "name": "测试保安员证号",
+            "namePinyin": "ceshibaoanyuanzhenghao",
+            "namePinyinFirst": "C",
+            "photoUrl": "",
+            "rank": "",
+            "sex": "1",
+            "status": "0",
+            "userId": 188,
+            "userType": "1",
+            "isChoose": false
+          }
+        ]
+      },
+      {
+        "header": "D",
+        "items": [
+          {
+            "credentialsNo": "",
+            "email": "",
+            "livingAddress": "西湖",
+            "name": "戴雷",
+            "namePinyin": "dailei",
+            "namePinyinFirst": "D",
+            "rank": "",
+            "sex": "1",
+            "status": "0",
+            "userId": 167,
+            "userType": "1",
+            "isChoose": false
+          },
+          {
+            "credentialsNo": "",
+            "email": "",
+            "livingAddress": "",
+            "name": "单于",
+            "namePinyin": "danyu",
+            "namePinyinFirst": "D",
+            "photoUrl": "",
+            "rank": "",
+            "sex": "1",
+            "status": "3",
+            "userId": 215,
+            "userType": "1",
+            "isChoose": false
+          }
+        ]
+      },
+      {
+        "header": "H",
+        "items": [
+          {
+            "credentialsNo": "",
+            "email": "",
+            "livingAddress": "从西",
+            "name": "何",
+            "namePinyin": "he",
+            "namePinyinFirst": "H",
+            "photoUrl": "",
+            "rank": "",
+            "sex": "1",
+            "status": "0",
+            "userId": 117,
+            "userType": "1",
+            "isChoose": false
+          },
+          {
+            "credentialsNo": "",
+            "email": "",
+            "livingAddress": "奉化",
+            "name": "侯长水",
+            "namePinyin": "houzhangshui",
+            "namePinyinFirst": "H",
+            "photoUrl": "",
+            "rank": "",
+            "sex": "1",
+            "status": "3",
+            "userId": 195,
+            "userType": "1",
+            "isChoose": false
+          }
+        ]
+      },
+      {
+        "header": "J",
+        "items": [
+          {
+            "credentialsNo": "",
+            "email": "",
+            "livingAddress": "西安",
+            "name": "焦宁莺",
+            "namePinyin": "jiaoningying",
+            "namePinyinFirst": "J",
+            "photoUrl": "",
+            "rank": "",
+            "sex": "0",
+            "status": "0",
+            "userId": 179,
+            "userType": "1",
+            "isChoose": false
+          },
+          {
+            "credentialsNo": "",
+            "email": "",
+            "livingAddress": "宁波",
+            "name": "景思卿",
+            "namePinyin": "jingsiqing",
+            "namePinyinFirst": "J",
+            "photoUrl": "",
+            "rank": "",
+            "sex": "0",
+            "status": "0",
+            "userId": 185,
+            "userType": "1",
+            "isChoose": false
+          }
+        ]
+      },
+      {
+        "header": "K",
+        "items": [
+          {
+            "credentialsNo": "",
+            "email": "",
+            "livingAddress": "测试",
+            "name": "柯测试",
+            "namePinyin": "keceshi",
+            "namePinyinFirst": "K",
+            "photoUrl": "",
+            "rank": "",
+            "sex": "1",
+            "status": "3",
+            "userId": 180,
+            "userType": "1",
+            "isChoose": false
+          }
+        ]
+      },
+      {
+        "header": "L",
+        "items": [
+          {
+            "credentialsNo": "",
+            "email": "",
+            "livingAddress": "居住地详细地址",
+            "name": "理夏璇",
+            "namePinyin": "lixiaxuan",
+            "namePinyinFirst": "L",
+            "rank": "",
+            "sex": "1",
+            "status": "3",
+            "userId": 212,
+            "userType": "1",
+            "isChoose": false
+          },
+          {
+            "credentialsNo": "",
+            "email": "",
+            "livingAddress": "北京",
+            "name": "梁东",
+            "namePinyin": "liangdong",
+            "namePinyinFirst": "L",
+            "photoUrl": "",
+            "rank": "",
+            "sex": "1",
+            "status": "3",
+            "userId": 226,
+            "userType": "0",
+            "isChoose": false
+          }
+        ]
+      },
+      {
+        "header": "M",
+        "items": [
+          {
+            "credentialsNo": "",
+            "email": "",
+            "livingAddress": "",
+            "name": "宓亚吟",
+            "namePinyin": "miyayin",
+            "namePinyinFirst": "M",
+            "photoUrl": "",
+            "rank": "",
+            "sex": "1",
+            "status": "3",
+            "userId": 174,
+            "userType": "1",
+            "isChoose": false
+          },
+          {
+            "credentialsNo": "",
+            "email": "",
+            "livingAddress": "",
+            "name": "蒙仪绿",
+            "namePinyin": "mengyilu:",
+            "namePinyinFirst": "M",
+            "photoUrl": "",
+            "rank": "",
+            "sex": "0",
+            "status": "3",
+            "userId": 240,
+            "userType": "1",
+            "isChoose": false
+          }
+        ]
+      },
+      {
+        "header": "S",
+        "items": [
+          {
+            "credentialsNo": "",
+            "email": "",
+            "livingAddress": "慈溪",
+            "name": "是的",
+            "namePinyin": "shide",
+            "namePinyinFirst": "S",
+            "photoUrl": "",
+            "rank": "",
+            "sex": "1",
+            "status": "3",
+            "userId": 146,
+            "userType": "1",
+            "isChoose": false
+          },
+          {
+            "credentialsNo": "",
+            "email": "",
+            "livingAddress": "",
+            "name": "山茗亚",
+            "namePinyin": "shanmingya",
+            "namePinyinFirst": "S",
+            "photoUrl": "",
+            "rank": "",
+            "sex": "1",
+            "status": "3",
+            "userId": 211,
+            "userType": "1",
+            "isChoose": false
+          },
+          {
+            "credentialsNo": "",
+            "email": "",
+            "livingAddress": "",
+            "name": "睢香蝶",
+            "namePinyin": "suixiangdie",
+            "namePinyinFirst": "S",
+            "photoUrl": "",
+            "rank": "",
+            "sex": "0",
+            "status": "3",
+            "userId": 217,
+            "userType": "1",
+            "isChoose": false
+          }
+        ]
+      },
+      {
+        "header": "T",
+        "items": [
+          {
+            "credentialsNo": "",
+            "email": "",
+            "livingAddress": "居住地详细地址",
+            "name": "铁亦巧",
+            "namePinyin": "tieyiqiao",
+            "namePinyinFirst": "T",
+            "photoUrl": "http://tongyongbucket.oss-cn-hangzhou.aliyuncs.com/2019621523252317613.png",
+            "rank": "",
+            "sex": "1",
+            "status": "3",
+            "userId": 213,
+            "userType": "1",
+            "isChoose": false
+          }
+        ]
+      },
+      {
+        "header": "X",
+        "items": [
+          {
+            "credentialsNo": "",
+            "email": "",
+            "livingAddress": "",
+            "name": "新增证号",
+            "namePinyin": "xinzengzhenghao",
+            "namePinyinFirst": "X",
+            "photoUrl": "",
+            "rank": "",
+            "sex": "1",
+            "status": "3",
+            "userId": 190,
+            "userType": "1",
+            "isChoose": false
+          },
+          {
+            "credentialsNo": "",
+            "email": "",
+            "livingAddress": "长兴",
+            "name": "许显伟",
+            "namePinyin": "xuxianwei",
+            "namePinyinFirst": "X",
+            "photoUrl": "",
+            "rank": "",
+            "sex": "1",
+            "status": "3",
+            "userId": 196,
+            "userType": "1",
+            "isChoose": false
+          },
+          {
+            "credentialsNo": "",
+            "email": "",
+            "livingAddress": "居住地详细地址",
+            "name": "许烨赫",
+            "namePinyin": "xuyehe",
+            "namePinyinFirst": "X",
+            "photoUrl": "http://tongyongbucket.oss-cn-hangzhou.aliyuncs.com/2019621538251487916.jpg",
+            "rank": "",
+            "sex": "1",
+            "status": "3",
+            "userId": 214,
+            "userType": "1",
+            "isChoose": false
+          }
+        ]
+      },
+      {
+        "header": "Y",
+        "items": [
+          {
+            "credentialsNo": "",
+            "email": "",
+            "livingAddress": "",
+            "name": "俞单",
+            "namePinyin": "yudan",
+            "namePinyinFirst": "Y",
+            "photoUrl": "",
+            "rank": "",
+            "sex": "1",
+            "status": "0",
+            "userId": 166,
+            "userType": "0",
+            "isChoose": false
+          },
+          {
+            "credentialsNo": "",
+            "email": "",
+            "livingAddress": "",
+            "name": "云宏",
+            "namePinyin": "yunhong",
+            "namePinyinFirst": "Y",
+            "photoUrl": "",
+            "rank": "",
+            "sex": "1",
+            "status": "3",
+            "userId": 160,
+            "userType": "1",
+            "isChoose": false
+          },
+          {
+            "credentialsNo": "",
+            "email": "",
+            "livingAddress": "",
+            "name": "依双文",
+            "namePinyin": "yishuangwen",
+            "namePinyinFirst": "Y",
+            "photoUrl": "",
+            "rank": "",
+            "sex": "",
+            "status": "3",
+            "userId": 216,
+            "userType": "1",
+            "isChoose": false
+          },
+          {
+            "credentialsNo": "",
+            "email": "",
+            "livingAddress": "邕宁区南宁市",
+            "name": "姚雉丽",
+            "namePinyin": "yaozhili",
+            "namePinyinFirst": "Y",
+            "photoUrl": "",
+            "rank": "",
+            "sex": "0",
+            "status": "3",
+            "userId": 934,
+            "userType": "1",
+            "isChoose": false
+          }
+        ]
+      }
+    ]
+  }
+}
