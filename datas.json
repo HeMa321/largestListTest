@@ -1,0 +1,332 @@
+{
+  "code": "200",
+  "errorType": "",
+  "message": "success",
+  "result": {
+    "dirDeptVoList": [
+      {
+        "deptId": 83,
+        "deptName": "正加事业部",
+        "orgId": 21,
+        "parentId": 0,
+        "pointListVoList": [
+          {
+            "pointNo": 124,
+            "pointStaffVoList": [
+            ],
+            "pointUnitName": "啊的"
+          }
+        ],
+        "sortNum": 2,
+        "staffNum": 26
+      },
+      {
+        "deptId": 229,
+        "deptName": "1-test2",
+        "orgId": 21,
+        "parentId": 0,
+        "pointListVoList": [],
+        "sortNum": 2,
+        "staffNum": 0
+      },
+      {
+        "deptId": 231,
+        "deptName": "驻点部门3-1ce",
+        "orgId": 21,
+        "parentId": 0,
+        "pointListVoList": [],
+        "sortNum": 2,
+        "staffNum": 0
+      },
+      {
+        "deptId": 110,
+        "deptName": "钧信产品部",
+        "orgId": 21,
+        "parentId": 0,
+        "pointListVoList": [
+          {
+            "pointNo": 125,
+            "pointStaffVoList": [],
+            "pointUnitName": "测试驻点333"
+          }
+        ],
+        "sortNum": 4,
+        "staffNum": 37
+      },
+      {
+        "deptId": 113,
+        "deptName": "iOS审核号码",
+        "orgId": 21,
+        "parentId": 0,
+        "pointListVoList": [
+          {
+            "pointNo": 126,
+            "pointStaffVoList": [
+            ],
+            "pointUnitName": "测绘数量"
+          }
+        ],
+        "sortNum": 5,
+        "staffNum": 4
+      },
+      {
+        "deptId": 174,
+        "deptName": "技术部",
+        "orgId": 21,
+        "parentId": 0,
+        "pointListVoList": [
+          {
+            "pointNo": 127,
+            "pointStaffVoList": [
+            ],
+            "pointUnitName": "测试驻点部门"
+          }
+        ],
+        "sortNum": 6,
+        "staffNum": 6
+      },
+      {
+        "deptId": 178,
+        "deptName": "服务部",
+        "orgId": 21,
+        "parentId": 0,
+        "pointListVoList": [],
+        "sortNum": 8,
+        "staffNum": 0
+      },
+      {
+        "deptId": 188,
+        "deptName": "性能测试",
+        "orgId": 21,
+        "parentId": 0,
+        "pointListVoList": [],
+        "sortNum": 9,
+        "staffNum": 432
+      },
+      {
+        "deptId": 201,
+        "deptName": "审核审批",
+        "orgId": 21,
+        "parentId": 0,
+        "pointListVoList": [
+          {
+            "pointNo": 128,
+            "pointStaffVoList": [
+            ],
+            "pointUnitName": "使用驻点测试点"
+          }
+        ],
+        "sortNum": 10,
+        "staffNum": 6
+      },
+      {
+        "deptId": 207,
+        "deptName": "二部",
+        "orgId": 21,
+        "parentId": 0,
+        "pointListVoList": [
+          {
+            "pointNo": 130,
+            "pointStaffVoList": [
+            ],
+            "pointUnitName": "联调驻点"
+          }
+        ],
+        "sortNum": 12,
+        "staffNum": 151
+      },
+      {
+        "deptId": 225,
+        "deptName": "打卡驻点",
+        "orgId": 21,
+        "parentId": 0,
+        "pointListVoList": [],
+        "sortNum": 13,
+        "staffNum": 1
+      },
+      {
+        "deptId": 226,
+        "deptName": "打卡驻点2",
+        "orgId": 21,
+        "parentId": 0,
+        "pointListVoList": [],
+        "sortNum": 14,
+        "staffNum": 0
+      },
+      {
+        "deptId": 227,
+        "deptName": "打卡驻点3",
+        "orgId": 21,
+        "parentId": 0,
+        "pointListVoList": [],
+        "sortNum": 15,
+        "staffNum": 0
+      },
+      {
+        "deptId": 228,
+        "deptName": "打卡驻点4",
+        "orgId": 21,
+        "parentId": 0,
+        "pointListVoList": [],
+        "sortNum": 16,
+        "staffNum": 0
+      },
+      {
+        "deptId": 246,
+        "deptName": "测试部门",
+        "orgId": 21,
+        "parentId": 0,
+        "pointListVoList": [
+          {
+            "pointNo": 113,
+            "pointStaffVoList": [
+            ],
+            "pointUnitName": "测试打卡驻点3"
+          },
+          {
+            "pointNo": 114,
+            "pointStaffVoList": [
+              {
+                "age": "19",
+                "chestCardNo": "",
+                "credentialsNo": "",
+                "dept": "",
+                "deptId": 83,
+                "isActive": "2019-10-22 17:49:40",
+                "name": "证一下",
+                "pointNum": "1",
+                "sex": "1",
+                "startDate": "2019-10-14 15:24:38.0",
+                "userId": 183
+              },
+              {
+                "age": "50",
+                "chestCardNo": "",
+                "credentialsNo": "",
+                "dept": "",
+                "deptId": 209,
+                "isActive": "2019-10-22 20:49:39",
+                "name": "占肃红",
+                "pointNum": "1",
+                "sex": "1",
+                "startDate": "2019-10-16 19:27:05.0",
+                "userId": 959
+              }
+            ],
+            "pointUnitName": "测试打卡驻点4"
+          }
+        ],
+        "sortNum": 17,
+        "staffNum": 1
+      }
+    ],
+    "dirOrgVo": {
+      "name": "浙江公司",
+      "orgId": 21,
+      "staffNum": 669,
+      "type": "0"
+    },
+    "directoryVoList": [
+      {
+        "header": "H",
+        "items": [
+          {
+            "credentialsNo": "",
+            "email": "",
+            "livingAddress": "邕宁区南宁市",
+            "name": "贺修毅",
+            "namePinyin": "hexiuyi",
+            "namePinyinFirst": "H",
+            "phone": "13701010103",
+            "photoUrl": "",
+            "rank": "",
+            "sex": "1",
+            "status": "3",
+            "userId": 1353,
+            "userType": "1",
+            "isChoose": false
+          }
+        ]
+      },
+      {
+        "header": "L",
+        "items": [
+          {
+            "credentialsNo": "",
+            "email": "",
+            "livingAddress": "",
+            "name": "励迟",
+            "namePinyin": "lichi",
+            "namePinyinFirst": "L",
+            "phone": "13007312896",
+            "photoUrl": "http://tongyongbucket.oss-cn-hangzhou.aliyuncs.com/201951958373738799.jpg",
+            "rank": "",
+            "sex": "1",
+            "status": "0",
+            "userId": 159,
+            "userType": "1",
+            "isChoose": false
+          }
+        ]
+      },
+      {
+        "header": "W",
+        "items": [
+          {
+            "credentialsNo": "",
+            "email": "",
+            "livingAddress": "海蛎煎",
+            "name": "魏兵齐",
+            "namePinyin": "weibingqi",
+            "namePinyinFirst": "W",
+            "phone": "17826801646",
+            "photoUrl": "",
+            "rank": "",
+            "sex": "0",
+            "status": "3",
+            "userId": 690,
+            "userType": "1",
+            "isChoose": false
+          }
+        ]
+      },
+      {
+        "header": "Z",
+        "items": [
+          {
+            "credentialsNo": "",
+            "email": "",
+            "livingAddress": "邕宁区南宁市",
+            "name": "张三",
+            "namePinyin": "zhangsan",
+            "namePinyinFirst": "Z",
+            "phone": "15757279120",
+            "photoUrl": "",
+            "rank": "",
+            "sex": "0",
+            "status": "3",
+            "userId": 285,
+            "userType": "1",
+            "isChoose": false
+          },
+          {
+            "credentialsNo": "",
+            "email": "",
+            "livingAddress": "慈溪",
+            "name": "周周周",
+            "namePinyin": "zhouzhouzhou",
+            "namePinyinFirst": "Z",
+            "phone": "18268861184",
+            "photoUrl": "",
+            "rank": "",
+            "sex": "1",
+            "status": "3",
+            "userId": 177,
+            "userType": "1",
+            "isChoose": false
+          }
+        ]
+      }
+    ]
+  }
+}
