@@ -9,7 +9,7 @@
   "dependencies": {
     "@babel/runtime": "^7.4.3",
     "react": "16.5.0",
-    "react-native": "0.57.0",
+    "react-native": "0.70.4",
     "react-native-largelist-v3": "^3.0.14",
     "react-native-spring-scrollview": "^2.0.22"
   },
